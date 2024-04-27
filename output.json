@@ -1238,17 +1238,6 @@
                   ]
                 },
                 {
-                  "name": "#",
-                  "path": "data/english-lit/book_notes/LitCharts - Poetry Analyses/#",
-                  "children": [
-                    {
-                      "name": "LitCharts-1914.pdf",
-                      "path": "data/english-lit/book_notes/LitCharts - Poetry Analyses/#/LitCharts-1914.pdf",
-                      "children": []
-                    }
-                  ]
-                },
-                {
                   "name": "B",
                   "path": "data/english-lit/book_notes/LitCharts - Poetry Analyses/B",
                   "children": [
@@ -2356,6 +2345,17 @@
                     {
                       "name": "LitCharts-since-feeling-is-first.pdf",
                       "path": "data/english-lit/book_notes/LitCharts - Poetry Analyses/S/LitCharts-since-feeling-is-first.pdf",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "hashtag",
+                  "path": "data/english-lit/book_notes/LitCharts - Poetry Analyses/hashtag",
+                  "children": [
+                    {
+                      "name": "LitCharts-1914.pdf",
+                      "path": "data/english-lit/book_notes/LitCharts - Poetry Analyses/hashtag/LitCharts-1914.pdf",
                       "children": []
                     }
                   ]
@@ -6154,42 +6154,6 @@
                   ]
                 },
                 {
-                  "name": "#",
-                  "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/#",
-                  "children": [
-                    {
-                      "name": "1776-LitChart.pdf",
-                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/#/1776-LitChart.pdf",
-                      "children": []
-                    },
-                    {
-                      "name": "The-7-Stages-of-Grieving-LitChart.pdf",
-                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/#/The-7-Stages-of-Grieving-LitChart.pdf",
-                      "children": []
-                    },
-                    {
-                      "name": "55-Miles-to-the-Gas-Pump-LitChart.pdf",
-                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/#/55-Miles-to-the-Gas-Pump-LitChart.pdf",
-                      "children": []
-                    },
-                    {
-                      "name": "12-Years-a-Slave-LitChart.pdf",
-                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/#/12-Years-a-Slave-LitChart.pdf",
-                      "children": []
-                    },
-                    {
-                      "name": "The-57-Bus-LitChart.pdf",
-                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/#/The-57-Bus-LitChart.pdf",
-                      "children": []
-                    },
-                    {
-                      "name": "1984-LitChart.pdf",
-                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/#/1984-LitChart.pdf",
-                      "children": []
-                    }
-                  ]
-                },
-                {
                   "name": "B",
                   "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/B",
                   "children": [
@@ -8622,6 +8586,42 @@
                     {
                       "name": "A-Sound-of-Thunder-LitChart.pdf",
                       "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/S/A-Sound-of-Thunder-LitChart.pdf",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "hashtag",
+                  "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/hashtag",
+                  "children": [
+                    {
+                      "name": "1776-LitChart.pdf",
+                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/hashtag/1776-LitChart.pdf",
+                      "children": []
+                    },
+                    {
+                      "name": "The-7-Stages-of-Grieving-LitChart.pdf",
+                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/hashtag/The-7-Stages-of-Grieving-LitChart.pdf",
+                      "children": []
+                    },
+                    {
+                      "name": "55-Miles-to-the-Gas-Pump-LitChart.pdf",
+                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/hashtag/55-Miles-to-the-Gas-Pump-LitChart.pdf",
+                      "children": []
+                    },
+                    {
+                      "name": "12-Years-a-Slave-LitChart.pdf",
+                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/hashtag/12-Years-a-Slave-LitChart.pdf",
+                      "children": []
+                    },
+                    {
+                      "name": "The-57-Bus-LitChart.pdf",
+                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/hashtag/The-57-Bus-LitChart.pdf",
+                      "children": []
+                    },
+                    {
+                      "name": "1984-LitChart.pdf",
+                      "path": "data/english-lit/book_notes/LitCharts - Textual Analyses/hashtag/1984-LitChart.pdf",
                       "children": []
                     }
                   ]
@@ -23863,13 +23863,13 @@
                   "path": "data/methods/y11/tests/CCGS 2021 test 1 trig",
                   "children": [
                     {
-                      "name": "2021 11A MAM Test #1 SOLUTIONS.pdf",
-                      "path": "data/methods/y11/tests/CCGS 2021 test 1 trig/2021 11A MAM Test #1 SOLUTIONS.pdf",
+                      "name": "2021 11A MAM Test 1 SOLUTIONS.pdf",
+                      "path": "data/methods/y11/tests/CCGS 2021 test 1 trig/2021 11A MAM Test 1 SOLUTIONS.pdf",
                       "children": []
                     },
                     {
-                      "name": "2021 11A MAM Test #1.pdf",
-                      "path": "data/methods/y11/tests/CCGS 2021 test 1 trig/2021 11A MAM Test #1.pdf",
+                      "name": "2021 11A MAM Test 1.pdf",
+                      "path": "data/methods/y11/tests/CCGS 2021 test 1 trig/2021 11A MAM Test 1.pdf",
                       "children": []
                     }
                   ]
@@ -24111,13 +24111,13 @@
                   "path": "data/methods/y11/tests/CCGS 2021 test 2 functions",
                   "children": [
                     {
-                      "name": "2021 11A MAM Test #2.pdf",
-                      "path": "data/methods/y11/tests/CCGS 2021 test 2 functions/2021 11A MAM Test #2.pdf",
+                      "name": "2021 11A MAM Test 2 Solutions.pdf",
+                      "path": "data/methods/y11/tests/CCGS 2021 test 2 functions/2021 11A MAM Test 2 Solutions.pdf",
                       "children": []
                     },
                     {
-                      "name": "2021 11A MAM Test #2 Solutions.pdf",
-                      "path": "data/methods/y11/tests/CCGS 2021 test 2 functions/2021 11A MAM Test #2 Solutions.pdf",
+                      "name": "2021 11A MAM Test 2.pdf",
+                      "path": "data/methods/y11/tests/CCGS 2021 test 2 functions/2021 11A MAM Test 2.pdf",
                       "children": []
                     }
                   ]
@@ -24654,13 +24654,13 @@
                   "path": "data/methods/y11/tests/CCGS 2021 test 3 trig and functions",
                   "children": [
                     {
-                      "name": "2021 11A MAM Test #3 Solutions.pdf",
-                      "path": "data/methods/y11/tests/CCGS 2021 test 3 trig and functions/2021 11A MAM Test #3 Solutions.pdf",
+                      "name": "2021 11A MAM Test 3 Solutions.pdf",
+                      "path": "data/methods/y11/tests/CCGS 2021 test 3 trig and functions/2021 11A MAM Test 3 Solutions.pdf",
                       "children": []
                     },
                     {
-                      "name": "2021 11A MAM Test #3.pdf",
-                      "path": "data/methods/y11/tests/CCGS 2021 test 3 trig and functions/2021 11A MAM Test #3.pdf",
+                      "name": "2021 11A MAM Test 3.pdf",
+                      "path": "data/methods/y11/tests/CCGS 2021 test 3 trig and functions/2021 11A MAM Test 3.pdf",
                       "children": []
                     }
                   ]
@@ -24686,13 +24686,13 @@
                   "path": "data/methods/y11/tests/CCGS 2021 test 4 probability and indices (SOLS ONLY)",
                   "children": [
                     {
-                      "name": "2021 11A MAM Test #4 CA.pdf",
-                      "path": "data/methods/y11/tests/CCGS 2021 test 4 probability and indices (SOLS ONLY)/2021 11A MAM Test #4 CA.pdf",
+                      "name": "2021 11A MAM Test 4 CA.pdf",
+                      "path": "data/methods/y11/tests/CCGS 2021 test 4 probability and indices (SOLS ONLY)/2021 11A MAM Test 4 CA.pdf",
                       "children": []
                     },
                     {
-                      "name": "2021 11A MAM Test #4 CF.pdf",
-                      "path": "data/methods/y11/tests/CCGS 2021 test 4 probability and indices (SOLS ONLY)/2021 11A MAM Test #4 CF.pdf",
+                      "name": "2021 11A MAM Test 4 CF.pdf",
+                      "path": "data/methods/y11/tests/CCGS 2021 test 4 probability and indices (SOLS ONLY)/2021 11A MAM Test 4 CF.pdf",
                       "children": []
                     }
                   ]
@@ -32103,23 +32103,23 @@
                   "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig",
                   "children": [
                     {
-                      "name": "2017 Yr12 Methods UT#1 Solutions.pdf",
-                      "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig/2017 Yr12 Methods UT#1 Solutions.pdf",
+                      "name": "2017 Yr12 Methods UT1 Solutions.pdf",
+                      "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig/2017 Yr12 Methods UT1 Solutions.pdf",
                       "children": []
                     },
                     {
-                      "name": "2017 Yr12 Methods UT#1 Solutions-book.pdf",
-                      "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig/2017 Yr12 Methods UT#1 Solutions-book.pdf",
+                      "name": "2017 Yr12 Methods UT1-book.pdf",
+                      "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig/2017 Yr12 Methods UT1-book.pdf",
                       "children": []
                     },
                     {
-                      "name": "2017 Yr12 Methods UT#1-book.pdf",
-                      "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig/2017 Yr12 Methods UT#1-book.pdf",
+                      "name": "2017 Yr12 Methods UT1.pdf",
+                      "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig/2017 Yr12 Methods UT1.pdf",
                       "children": []
                     },
                     {
-                      "name": "2017 Yr12 Methods UT#1.pdf",
-                      "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig/2017 Yr12 Methods UT#1.pdf",
+                      "name": "2017 Yr12 Methods UT1 Solutions-book.pdf",
+                      "path": "data/methods/y12/tests/CCGS 2017 test 1 diff trig/2017 Yr12 Methods UT1 Solutions-book.pdf",
                       "children": []
                     }
                   ]
@@ -34804,6 +34804,99 @@
                       ]
                     },
                     {
+                      "name": "Sadler worked solutions 2",
+                      "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2",
+                      "children": [
+                        {
+                          "name": "sadler 4 solutions",
+                          "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 4 solutions",
+                          "children": [
+                            {
+                              "name": "Chapter 3 CRV.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 4 solutions/Chapter 3 CRV.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 5 Random Sampling.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 4 solutions/Chapter 5 Random Sampling.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 4 Normal Distribution.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 4 solutions/Chapter 4 Normal Distribution.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 2 Calculus Involving Logarithmic Functions.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 4 solutions/Chapter 2 Calculus Involving Logarithmic Functions.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 6 Sample Proportions.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 4 solutions/Chapter 6 Sample Proportions.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 1 Logarithmic Functions.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 4 solutions/Chapter 1 Logarithmic Functions.pdf",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "sadler 3 solutions",
+                          "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions",
+                          "children": [
+                            {
+                              "name": "Chapter 6 The Exponential Function.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 6 The Exponential Function.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 8 DRV.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 8 DRV.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 4 Area under a Curve.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 4 Area under a Curve.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 1 Differentiation.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 1 Differentiation.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 7 Calculus of Trig Fnc.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 7 Calculus of Trig Fnc.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 3 Antidifferentiation.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 3 Antidifferentiation.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 9 Bernoulli and Binomial Distributions.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 9 Bernoulli and Binomial Distributions.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 5 The Fundamental Theorem of Calculaus.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 5 The Fundamental Theorem of Calculaus.pdf",
+                              "children": []
+                            },
+                            {
+                              "name": "Chapter 2 Applications of Differentiation.pdf",
+                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions 2/sadler 3 solutions/Chapter 2 Applications of Differentiation.pdf",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       "name": "Sadler worked solutions",
                       "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions",
                       "children": [
@@ -34900,99 +34993,6 @@
                       "name": "Sadler Methods Unit 3.txt",
                       "path": "data/methods/y12/textbooks/Sadler/Sadler Methods Unit 3.txt",
                       "children": []
-                    },
-                    {
-                      "name": "Sadler worked solutions #2",
-                      "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2",
-                      "children": [
-                        {
-                          "name": "sadler 4 solutions",
-                          "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 4 solutions",
-                          "children": [
-                            {
-                              "name": "Chapter 3 CRV.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 4 solutions/Chapter 3 CRV.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 5 Random Sampling.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 4 solutions/Chapter 5 Random Sampling.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 4 Normal Distribution.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 4 solutions/Chapter 4 Normal Distribution.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 2 Calculus Involving Logarithmic Functions.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 4 solutions/Chapter 2 Calculus Involving Logarithmic Functions.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 6 Sample Proportions.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 4 solutions/Chapter 6 Sample Proportions.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 1 Logarithmic Functions.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 4 solutions/Chapter 1 Logarithmic Functions.pdf",
-                              "children": []
-                            }
-                          ]
-                        },
-                        {
-                          "name": "sadler 3 solutions",
-                          "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions",
-                          "children": [
-                            {
-                              "name": "Chapter 6 The Exponential Function.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 6 The Exponential Function.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 8 DRV.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 8 DRV.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 4 Area under a Curve.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 4 Area under a Curve.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 1 Differentiation.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 1 Differentiation.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 7 Calculus of Trig Fnc.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 7 Calculus of Trig Fnc.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 3 Antidifferentiation.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 3 Antidifferentiation.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 9 Bernoulli and Binomial Distributions.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 9 Bernoulli and Binomial Distributions.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 5 The Fundamental Theorem of Calculaus.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 5 The Fundamental Theorem of Calculaus.pdf",
-                              "children": []
-                            },
-                            {
-                              "name": "Chapter 2 Applications of Differentiation.pdf",
-                              "path": "data/methods/y12/textbooks/Sadler/Sadler worked solutions #2/sadler 3 solutions/Chapter 2 Applications of Differentiation.pdf",
-                              "children": []
-                            }
-                          ]
-                        }
-                      ]
                     }
                   ]
                 },
@@ -38574,23 +38574,23 @@
                   "path": "data/methods/y12/sem1 exams/CCGS 2017",
                   "children": [
                     {
-                      "name": "2017 Yr12 Methods UT#1 Solutions.pdf",
-                      "path": "data/methods/y12/sem1 exams/CCGS 2017/2017 Yr12 Methods UT#1 Solutions.pdf",
+                      "name": "2017 Yr12 Methods UT1 Solutions.pdf",
+                      "path": "data/methods/y12/sem1 exams/CCGS 2017/2017 Yr12 Methods UT1 Solutions.pdf",
                       "children": []
                     },
                     {
-                      "name": "2017 Yr12 Methods UT#1 Solutions-book.pdf",
-                      "path": "data/methods/y12/sem1 exams/CCGS 2017/2017 Yr12 Methods UT#1 Solutions-book.pdf",
+                      "name": "2017 Yr12 Methods UT1-book.pdf",
+                      "path": "data/methods/y12/sem1 exams/CCGS 2017/2017 Yr12 Methods UT1-book.pdf",
                       "children": []
                     },
                     {
-                      "name": "2017 Yr12 Methods UT#1-book.pdf",
-                      "path": "data/methods/y12/sem1 exams/CCGS 2017/2017 Yr12 Methods UT#1-book.pdf",
+                      "name": "2017 Yr12 Methods UT1.pdf",
+                      "path": "data/methods/y12/sem1 exams/CCGS 2017/2017 Yr12 Methods UT1.pdf",
                       "children": []
                     },
                     {
-                      "name": "2017 Yr12 Methods UT#1.pdf",
-                      "path": "data/methods/y12/sem1 exams/CCGS 2017/2017 Yr12 Methods UT#1.pdf",
+                      "name": "2017 Yr12 Methods UT1 Solutions-book.pdf",
+                      "path": "data/methods/y12/sem1 exams/CCGS 2017/2017 Yr12 Methods UT1 Solutions-book.pdf",
                       "children": []
                     }
                   ]
@@ -42125,13 +42125,13 @@
                       "children": []
                     },
                     {
-                      "name": "some y11 solubility notes part 2.png",
-                      "path": "data/chemistry/y11/notes/Aqueous solutions/some y11 solubility notes part 2.png",
+                      "name": "Water and Solutions -- for Dirty Laundry- Crash Course Chemistry 7.url",
+                      "path": "data/chemistry/y11/notes/Aqueous solutions/Water and Solutions -- for Dirty Laundry- Crash Course Chemistry 7.url",
                       "children": []
                     },
                     {
-                      "name": "Water and Solutions -- for Dirty Laundry- Crash Course Chemistry #7.url",
-                      "path": "data/chemistry/y11/notes/Aqueous solutions/Water and Solutions -- for Dirty Laundry- Crash Course Chemistry #7.url",
+                      "name": "some y11 solubility notes part 2.png",
+                      "path": "data/chemistry/y11/notes/Aqueous solutions/some y11 solubility notes part 2.png",
                       "children": []
                     },
                     {
@@ -42807,6 +42807,11 @@
                       "children": []
                     },
                     {
+                      "name": "Acid-Base Reactions in Solution- Crash Course Chemistry 8.url",
+                      "path": "data/chemistry/y11/notes/Acids and bases/Acid-Base Reactions in Solution- Crash Course Chemistry 8.url",
+                      "children": []
+                    },
+                    {
                       "name": "Acids, Bases, and pH.url",
                       "path": "data/chemistry/y11/notes/Acids and bases/Acids, Bases, and pH.url",
                       "children": []
@@ -42829,11 +42834,6 @@
                     {
                       "name": "Arrhenius Acids and Bases.url",
                       "path": "data/chemistry/y11/notes/Acids and bases/Arrhenius Acids and Bases.url",
-                      "children": []
-                    },
-                    {
-                      "name": "Acid-Base Reactions in Solution- Crash Course Chemistry #8.url",
-                      "path": "data/chemistry/y11/notes/Acids and bases/Acid-Base Reactions in Solution- Crash Course Chemistry #8.url",
                       "children": []
                     }
                   ]
