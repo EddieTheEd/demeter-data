@@ -26,9 +26,9 @@ traverse_directories() {
 
 main() {
     if [ "$2" = "test" ]; then
-        traverse_directories "$1" "test" > conversion_log.txt
+        traverse_directories "$1" "test"
     else
-        traverse_directories "$1" > conversion_log.txt
+        traverse_directories "$1"
     fi
 }
 
