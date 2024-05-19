@@ -12,7 +12,6 @@ run_git_commands() {
     git add .
     git commit -m "$directory"
     git push
-    cd ..
 }
 
 main() {
