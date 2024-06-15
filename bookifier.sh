@@ -1,55 +1,27 @@
-#!/bin/bash
-
-# Function to check if a file is a PDF
-is_pdf() {
-    file="$1"
-    mime_type=$(file --mime-type -b "$file")
-    if [ "$mime_type" = "application/pdf" ]; then
-        return 0
-    else
-        return 1
-    fi
+convert_to_pdf() {
+    input_file="$1"
+    
+    echo "Converting $input_file to PDF..."
+    pdfbook2 "$input_file"
 }
 
-# Function to run pdfbook2 if the file is a PDF
-process_pdf() {
-    file="$1"
-    if is_pdf "$file"; then
-        echo "Processing PDF: $file"
-        pdfbook2 "$file"
-    else
-        echo "Skipping non-PDF file: $file"
-    fi
-}
-
-# Function to pass directory to pdfifier.sh
-pass_directory_to_pdfifier() {
-    directory="$1"
-    echo "Running pdfifier.sh for directory: $directory"
-    bash pdfifier.sh "$directory" "$2"
-}
-
-# Main function to process directories
-main() {
-    if [ "$1" = "test" ]; then
-        shift
-        for directory in "$@"; do
-            pass_directory_to_pdfifier "$directory" "test"
-        done
-    else
-        for directory in "$@"; do
-            pass_directory_to_pdfifier "$directory"
-        done
-    fi
-}
-
-# Process each file in the specified directories
-for dir in "$@"; do
-    for file in "$dir"/*; do
-        process_pdf "$file"
+traverse_directories() {
+    for file in "$1"/*; do
+        if [ -d "$file" ]; then
+            traverse_directories "$file" "$2"
+        elif [[ "${file##*.}" =~ ^(pdf|PDF)$ ]]; then
+            convert_to_pdf "$file" "$2"
+        fi
     done
-done
+}
 
-# Execute main function with passed arguments
+main() {
+    if [ "$2" = "test" ]; then
+        traverse_directories "$1" "test"
+    else
+        traverse_directories "$1"
+    fi
+}
+
 main "$@"
 
